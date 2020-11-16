@@ -1,0 +1,3 @@
+[submodule "deno-azoth"]
+	path = deno-azoth
+	url = https://github.com/neoJINXD/deno-azoth.git
